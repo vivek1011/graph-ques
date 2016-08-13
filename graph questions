@@ -1,5 +1,7 @@
 Given a set of vertices find out how many vertices are there which have at most of d distance from all the vertices of the given set . 
 cf-  http://codeforces.com/problemset/problem/337/D
 
-
 Find sum of all subtree sizes in a tree -problem C topcoder 683
+
+0-1 BFS // KATHTHI SPOJ 
+
