@@ -4,4 +4,10 @@ cf-  http://codeforces.com/problemset/problem/337/D
 Find sum of all subtree sizes in a tree -problem C topcoder 683
 
 0-1 BFS // KATHTHI SPOJ 
+new data structure - deque 
+
+how to find all edges participating in shortest path in dijkstra
+http://codeforces.com/problemset/gymProblem/100765/F
+
+
 
